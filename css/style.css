@@ -7,13 +7,9 @@ body{
     font-family: "Helvetica Neue", "Segoe UI", Verdana, Arial, serif;
     background-color: #b1f461;
 }
-header{
-    min-height: 50px;
-    width: 100%;
-}
 article{
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 3rem;
 }
 footer{
     min-height: 50px;
@@ -77,14 +73,17 @@ a:hover{
 @media (max-width: 768px) {
     article {
         padding-top: 0;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
     }
 
     .container {
         width: 100%;
+        padding: 15px;
     }
 
     .card {
-        width: 90%;
+        width: 100%;
         font-size: 14px;
     }
 
