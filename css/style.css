@@ -72,7 +72,6 @@ a:hover{
 /* Medium devices (tablets, 768px and up)*/
 @media (max-width: 768px) {
     article {
-        padding-top: 0;
         padding-top: 2rem;
         padding-bottom: 2rem;
     }
