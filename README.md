@@ -1,4 +1,4 @@
-#GreenSaver di UniTo
+# GreenSaver di UniTo
 
 Studenti di **UniTo**, **Dipartimento di Informatica**\
 Siamo un'associazione che ha lo scopo di responsabilizzare gli studenti e rendere più sostenibile la vita di tutti i 
