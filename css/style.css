@@ -64,6 +64,17 @@ a:hover{
     color: #b1f461;
 }
 
+p.centered-text {
+    text-align: center;
+}
+
+ul.border-list {
+    border: 2px solid #b1f461;
+    border-radius: .25rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .link-social {
     margin: 0 auto;
     width: max-content;
